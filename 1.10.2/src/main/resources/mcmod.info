@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nano",
+  "name": "Nano Block",
+  "description": "Cellular automata in Minecraft.",
+  "version": "${version}",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FourFire"],
+  "credits": "The Forge and FML guys, Risugami, _303, Flan and all the hackers who started and continued Minecraft modding tradition. ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
