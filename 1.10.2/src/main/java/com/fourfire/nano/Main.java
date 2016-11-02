@@ -37,7 +37,6 @@ public class Main
     	proxy.registerRenders();
     }
     
-
     @EventHandler
     public void init(FMLInitializationEvent e)
     {

@@ -13,5 +13,4 @@ public class BlockNanoGel extends Block {
 		this.setUnlocalizedName(unlocalizedName);
 		this.setRegistryName(new ResourceLocation(Reference.MODID, registryName));
 		}
-
 }
